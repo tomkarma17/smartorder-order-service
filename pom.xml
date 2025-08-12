@@ -12,8 +12,8 @@
 	
 	<groupId>com.tomfitton</groupId>
 	<artifactId>smartorder-order-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>smartorder-order-services</name>
+	<version>1.0.0</version>
+	<name>smartorder-order-service</name>
 	<description>Smart Order - Order Service</description>
 	
 	<properties>
